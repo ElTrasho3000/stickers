@@ -11,4 +11,7 @@ A collection of stickers I made. Either using existing logos or designs I did my
 
 ## Own designs
 The following designs are my own work and are licensed under CC BY-NC-SA:
+
 - Binarletti
+
+![Image showing the binarletti sticker](svg/Binarletti_Sticker.svg)
