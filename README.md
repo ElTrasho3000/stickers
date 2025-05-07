@@ -10,5 +10,5 @@ A collection of stickers I made. Either using existing logos or designs I did my
 [Vim Logo](https://www.vim.org/logos.php)
 
 ## Own designs
-The following designs are my own work and are licensed under GPLv3:
+The following designs are my own work and are licensed under CC BY-NC-SA:
 - Binarletti
